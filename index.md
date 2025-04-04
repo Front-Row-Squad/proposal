@@ -4,6 +4,8 @@ _Jeremy Fischer, Nicholas Jean, Stephen Lee, Shiran Yuan_
 
 _UC Berkeley_
 
+<img src="https://github.com/user-attachments/assets/c6492b8c-4193-4f23-b7b2-ef1ccdbbc881" alt="logo" style="width: 40%; display: block; margin: auto;">
+
 ## Project Summary
 
 Our project aims to create a realistic, real-time water simulation in Unity by leveraging common heuristic techniques. We aim to implement a set of features including lighting effects like caustics, buoyancy and destruction physics for ships, and level of detail optimizations to really bring the simulation to life.
