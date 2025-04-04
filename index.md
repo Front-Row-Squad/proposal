@@ -1,4 +1,4 @@
-# Simulation of Thieves
+CS 184/284A (Spring 2025) Final Project Proposal
 
 _Jeremy Fischer, Nicholas Jean, Stephen Lee, Shiran Yuan_
 
