@@ -1,5 +1,7 @@
 CS 184/284A (Spring 2025) Final Project Proposal
 
+[front-row-squad.github.io/proposal/](front-row-squad.github.io/proposal/)
+
 _Jeremy Fischer, Nicholas Jean, Stephen Lee, Shiran Yuan_
 
 _UC Berkeley_
